@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and statistic**
 
-- 💬 Ask me about **SQL, Python, PowerBI, Tableau, Looker Studio**
+- 💬 Ask me about **SQL, Python, PowerBI, Tableau, Looker Studio, Sales and CRM**
 
 - 📫 How to reach me **luizangelo1919@gmail.com**
 
