@@ -54,3 +54,19 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizzangelo&show_icons=true&locale=en&layout=compact" alt="luizzangelo" /></p>
+
+<h3 align="left">✨ About me</h3>
+
+
+Work experience of 5 years in Data Analysis, Data Engineering and Digital Marketing Analytics:
+
+* Work experience in ETL, data cleaning and transformation using Python (Pandas) and SQL;
+* Work experience in web analytics with GA4, extracting and processing data via Python for conversion and engagement insights;
+* Work experience in data visualization (Power BI, Looker Studio) for interactive dashboards and executive reports;
+* Work experience in automation and web scraping (Selenium, PyAutoGUI, N8N) to streamline data collection;
+* Work experience in advanced Excel (Power Query, PivotTables, VBA) for KPI monitoring;
+* Work experience in paid‑media performance analysis, tracking CTR, CPC, ROI and optimizing budget allocation;
+* Work experience analyzing sales performance data and CRM metrics to identify opportunities and improve customer retention;
+* Work experience creating dashboards to track sales pipelines, conversion rates and client engagement across multiple channels;
+
+Passionate about turning complex data into actionable insights that drive strategic decisions.
