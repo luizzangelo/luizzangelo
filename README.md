@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luiz Angelo</h1>
-<h3 align="center">A passionate about science and data analysis</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,postgres,mysql,vscode,r,aws" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=py,git,postgres,mysql,vscode,r,aws)](https://skillicons.dev)
+
 - 🔭 I’m currently working on Data analysis and visualization using Python and SQL **Sales on e-commerce**
 
 - 🌱 I’m currently learning **Machine Learning and statistic**
