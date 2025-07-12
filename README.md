@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,git,postgres,mysql,vscode,r,aws)](https://skillicons.dev)
 
-- 🔭 I’m currently working on Data analysis and visualization using Python and SQL **Sales on e-commerce**
+- 🔭 I’m currently working on Data analysis and visualization using Python and SQL for **Sales in e-commerce**
 
 - 🌱 I’m currently learning **Machine Learning and statistic**
 
