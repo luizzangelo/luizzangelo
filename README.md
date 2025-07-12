@@ -2,7 +2,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,postgres,mysql,vscode,r,aws)](https://skillicons.dev)
+[![My Skills](https://skills.syvixor.com/api/icons?i=databricks,dbt,spark,python,postgresql,git,amazonwebservices,visualstudiocode)](https://builder.syvixor.com)
+
+
 
 - 🔭 I’m currently working on Data analysis and visualization using Python and SQL for **Sales in e-commerce**
 
