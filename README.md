@@ -2,7 +2,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,python,vscode,databricks,dbtlabs,postgresql,tableau,looker,aws&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,python,vscode,databricks,dbtlabs,postgresql,tableau,pbi,looker,aws&titles=true)
 
 
 
