@@ -2,7 +2,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skills.syvixor.com/api/icons?i=databricks,dbt,spark,python,postgresql,git,amazonwebservices,visualstudiocode)](https://builder.syvixor.com)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,python,vscode,databricks,dbtlabs,postgresql,tableau,looker,aws&titles=true)
 
 
 
