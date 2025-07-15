@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Data analysis and visualization using Python and SQL for **Sales in e-commerce**
 
-- 🌱 I’m currently learning **Machine Learning and statistic**
+- 🌱 I’m currently deepening my knowledge in **DBT**, **Machine Learning and statistic**
 
 - 💬 Ask me about **SQL, Python, PowerBI, Tableau, Looker Studio, Sales and CRM**
 
