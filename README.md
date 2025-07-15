@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently deepening my knowledge in **DBT**, **Machine Learning and statistic**
 
-- 💬 Ask me about **SQL, Python, PowerBI, Tableau, Looker Studio, Sales and CRM**
+- 💬 Ask me about **SQL, Python, DataViz, Sales and CRM**
 
 - 📫 How to reach me **luizangelo1919@gmail.com**
 
