@@ -26,7 +26,7 @@
 <h3 align="left">✨ About me</h3>
 
 
-Work experience of 5 years in Data Analysis, Data Engineering and Digital Marketing Analytics:
+Work experience of 5 years in Data Analysis and Digital Marketing Analytics:
 
 * Work experience in ETL, data cleaning and transformation using Python (Pandas) and SQL;
 * Work experience in web analytics with GA4, extracting and processing data via Python for conversion and engagement insights;
