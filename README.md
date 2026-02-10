@@ -20,9 +20,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/luiz-analista-de-dados) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/luizangelo.cf/)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizzangelo&show_icons=true&locale=en&layout=compact" alt="luizzangelo" /></p>
-
 <h3 align="left">✨ About me</h3>
 
 
