@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on Data analysis and visualization using Python and SQL for **Sales in e-commerce**
 
-- 🌱 I’m currently deepening my knowledge in **DBT**, **Machine Learning and statistic**
-
 - 💬 Ask me about **SQL, Python, DataViz, Sales and CRM**
 
 - 📫 How to reach me **luizangelo1919@gmail.com**
@@ -23,7 +21,7 @@
 <h3 align="left">✨ About me</h3>
 
 
-Work experience of 5 years in Data Analysis and Digital Marketing Analytics:
+Work experience of 7 years in Data Analysis and Digital Marketing Analytics:
 
 * Work experience in ETL, data cleaning and transformation using Python (Pandas) and SQL;
 * Work experience in web analytics with GA4, extracting and processing data via Python for conversion and engagement insights;
